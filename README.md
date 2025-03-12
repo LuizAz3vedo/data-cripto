@@ -75,8 +75,8 @@ Os dias foram divididos em três grupos:
 
 ## 📊 **Visualizações**
 
-### 1. Decomposição da Série Temporal
-![Decomposição](images/decomposition.png)
+### 1. Série Temporal
+![Decomposição](graphs/serie.png)
 
 ### 2. Clusters no Tempo
 ![Clusters](graphs/clusters.png)
