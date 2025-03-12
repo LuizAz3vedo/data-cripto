@@ -82,4 +82,4 @@ Os dias foram divididos em três grupos:
 ![Clusters](images/clusters.png)
 
 ### 3. Anomalias Detectadas
-![Anomalias](images/anomalies.png)
+![Anomalias](graphs/anomalias.png)
