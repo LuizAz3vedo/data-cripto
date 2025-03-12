@@ -79,7 +79,7 @@ Os dias foram divididos em três grupos:
 ![Decomposição](images/decomposition.png)
 
 ### 2. Clusters no Tempo
-![Clusters](images/clusters.png)
+![Clusters](graphs/clusters.png)
 
 ### 3. Anomalias Detectadas
 ![Anomalias](graphs/anomalias.png)
